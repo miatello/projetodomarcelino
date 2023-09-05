@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+    font-family: -serifsans;
   }
   
   .container {
@@ -23,7 +23,7 @@ body {
   }
   
   button {
-    background-color: #007bff;
+    background-color: #f900f4;
     color: white;
     padding: 10px;
     border-radius: 4px;
